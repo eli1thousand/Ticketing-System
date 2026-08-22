@@ -23,8 +23,9 @@
 <h3>Here I will also put the ticket into waiting as I am waiting to see if the employee has access to the account. </h3>
 <img width="500" height="203" alt="image" src="https://github.com/user-attachments/assets/63eddfc7-d183-48e7-ae3f-e2915d4b6b7b" />
 
+<h3>Once it is relayed that Ms. Belle has access, I can now document the incident and close the ticket.</h3>
+<img width="1263" height="396" alt="image" src="https://github.com/user-attachments/assets/218501f6-dcff-4efa-9616-bb7f54aae64c" />
 
-<h3>After confirming that Ms.Belle was able to logon, I will know document and close the ticket.</h3>
 
 
 
