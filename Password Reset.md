@@ -20,6 +20,9 @@
 <img width="542" height="411" alt="Screenshot 2026-08-22 134144" src="https://github.com/user-attachments/assets/c24ed3e1-592d-4d06-bc59-ca6cd789a0e4" />
 <img width="542" height="345" alt="Screenshot 2026-08-22 134204" src="https://github.com/user-attachments/assets/ef523c5d-20f8-4dd8-a750-e5b927053092" />
 <img width="588" height="258" alt="Screenshot 2026-08-22 134218" src="https://github.com/user-attachments/assets/9a8eed86-a1ad-4cd5-a8f6-ab484a1ac558" />
+<h3>Here I will also put the ticket into waiting as I am waiting to see if the employee has access to the account. </h3>
+<img width="500" height="203" alt="image" src="https://github.com/user-attachments/assets/63eddfc7-d183-48e7-ae3f-e2915d4b6b7b" />
+
 
 <h3>After confirming that Ms.Belle was able to logon, I will know document and close the ticket.</h3>
 
