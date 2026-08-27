@@ -1,4 +1,4 @@
-<h1>Ticketing System: Password Reset</h1>
+<h1>Spiceworks: Password Reset</h1>
 
 <h2>Scenario: Ms. Belle has forgotten her password to her user account and is locked out. </h2>
 
