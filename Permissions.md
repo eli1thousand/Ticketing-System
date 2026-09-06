@@ -17,8 +17,11 @@
 <h3>I will run the command gpupdate /force to ensure the changes took affect. </h3>
 <img width="552" height="411" alt="image" src="https://github.com/user-attachments/assets/2bc3c6cd-8912-48d4-8c31-3efc6940d7b7" />
 
-<h3>Now I will ask the user to try to access the folder again.  </h3>
+<h3>Now I will ask the user to try to access the folder again and it appears they have access.  </h3>
+<img width="1251" height="547" alt="image" src="https://github.com/user-attachments/assets/520f18dd-c283-41ea-9925-f1a57da0677e" />
 <img width="1017" height="771" alt="image" src="https://github.com/user-attachments/assets/3c42ec27-4e08-499a-a162-76b3dc317eb1" />
 
 
-<h3>Now I will ask the user to try to access the </h3>
+<h3> Now that she is able to access the folder I will now update and close the ticket. </h3>
+<img width="1018" height="705" alt="image" src="https://github.com/user-attachments/assets/62a533c4-2ecb-437c-beb1-92ef85bc5b0e" />
+
