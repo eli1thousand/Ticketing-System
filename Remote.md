@@ -6,5 +6,7 @@
 <h3>On Spiceworks, I created a ticket for the user detailing what exactly their issue was.</h3>
 <img width="745" height="423" alt="image" src="https://github.com/user-attachments/assets/b351995e-2aef-4701-a7ec-dd7209f79f14" />
 
+<h3>Because the user is working from home, I will need to remotely access their computer to better understand what I am dealing with. </h3>
+<img width="642" height="455" alt="image" src="https://github.com/user-attachments/assets/90e93607-3b40-4bbe-bf0b-5771bad97828" />
 
 <img width="980" height="443" alt="Screenshot 2026-10-04 192000" src="https://github.com/user-attachments/assets/021e2dee-6608-4660-bbf8-a753fd8e2d72" />
