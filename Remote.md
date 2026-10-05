@@ -15,6 +15,7 @@
 <h3>After the link is opened and code inserted, I now have remote access to the user's computer.</h3>
 
 <h3>Troubleshooting</h3>
+
 <h2> When troubleshooting a slow PC, you should first open Task Manager. Here you will see all the running programs and their memory usage. We will first get rid of any temporary files and unnecessary background applications. </h2>
 <img width="886" height="464" alt="Screenshot 2026-10-04 192612" src="https://github.com/user-attachments/assets/3f1f39aa-9808-41b9-a35f-65e01b4858d2" />
 
