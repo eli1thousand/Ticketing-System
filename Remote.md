@@ -22,3 +22,4 @@
 <h2>If that fails to improve performance, next we will check if all the drivers are updated.</h2>
 <img width="736" height="321" alt="unnamed" src="https://github.com/user-attachments/assets/0b781035-c5b7-454b-b262-c650fa6f584e" />
 
+<h2>It appears that the drivers are all updated, so now we will move on to malware. There may be damaging and hidden malware or bad software, on this PC somehwere, so we will run a malware scan. Hopefully this will purge any performance hindering software on the computer.</h2>
